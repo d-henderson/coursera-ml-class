@@ -4,25 +4,25 @@ Go to [class](https://class.coursera.org/ml-008/).
 
 ## Directory structure
 
-  * Lecture1.pdf  ... [Introduction](./Lecture1.pdf)
-  * Lecture2.pdf  ... [Linear Regression with One Variable](./Lecture2.pdf)
-  * Lecture3.pdf  ... Linear Algebra Review
-  * Lecture4.pdf  ... Linear Regression with Multiple Variables
-  * Lecture5.pdf  ... Octave Tutorial
-  * Lecture6.pdf  ... Logistic Regression
-  * Lecture7.pdf  ... Regularization
-  * Lecture8.pdf  ... Neural Networks: Representation
-  * Lecture9.pdf  ... Neural Networks: Learning
-  * Lecture10.pdf ... Advice for Applying Machine Learning
-  * Lecture11.pdf ... Machine Learning System Design
-  * Lecture12.pdf ... Support Vector Machines
-  * Lecture13.pdf ... Clustering
-  * Lecture14.pdf ... Dimensionality Reduction
-  * Lecture15.pdf ... Anomaly Detection
-  * Lecture16.pdf ... Recommender Systems
-  * Lecture17.pdf ... Large Scale Machine Learning
-  * Lecture18.pdf ... Application Example: Photo OCR
-  * Lecture19.pdf ... Conclusion
+  * Lecture1.pdf  - [Introduction](./Lecture1.pdf)
+  * Lecture2.pdf  - [Linear Regression with One Variable](./Lecture2.pdf)
+  * Lecture3.pdf  - [Linear Algebra Review](./Lecture3.pdf)
+  * Lecture4.pdf  - [Linear Regression with Multiple Variables](./Lecture4.pdf)
+  * Lecture5.pdf  - [Octave Tutorial](./Lecture5.pdf)
+  * Lecture6.pdf  - [Logistic Regression](./Lecture6.pdf)
+  * Lecture7.pdf  - [Regularization](./Lecture7.pdf)
+  * Lecture8.pdf  - [Neural Networks: Representation](./Lecture8.pdf)
+  * Lecture9.pdf  - [Neural Networks: Learning](./Lecture9.pdf)
+  * Lecture10.pdf - [Advice for Applying Machine Learning](./Lecture10.pdf)
+  * Lecture11.pdf - [Machine Learning System Design](./Lecture11.pdf)
+  * Lecture12.pdf - [Support Vector Machines](./Lecture12.pdf)
+  * Lecture13.pdf - [Clustering](./Lecture13.pdf)
+  * Lecture14.pdf - [Dimensionality Reduction](./Lecture14.pdf)
+  * Lecture15.pdf - [Anomaly Detection](./Lecture15.pdf)
+  * Lecture16.pdf - [Recommender Systems](./Lecture16.pdf)
+  * Lecture17.pdf - [Large Scale Machine Learning](./Lecture17.pdf)
+  * Lecture18.pdf - [Application Example: Photo OCR](./Lecture18.pdf)
+  * Lecture19.pdf - [Conclusion](./Lecture19.pdf)
   * ...
   * ex1.pdf
   * ex2.pdf
