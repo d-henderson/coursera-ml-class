@@ -5,7 +5,7 @@ Go to [class](https://class.coursera.org/ml-008/).
 ## Directory structure
 
     .
-    ├── Lecture1.pdf  ... Introduction
+    ├── Lecture1.pdf  ... [Introduction](./Lecture1.pdf)
     ├── Lecture2.pdf  ... Linear Regression with One Variable
     ├── Lecture3.pdf  ... Linear Algebra Review
     ├── Lecture4.pdf  ... Linear Regression with Multiple Variables
