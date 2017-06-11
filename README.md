@@ -24,10 +24,6 @@ Go to [class](https://class.coursera.org/ml-008/).
   * Lecture18.pdf - [Application Example: Photo OCR](./Lecture18.pdf)
   * Lecture19.pdf - [Conclusion](./Lecture19.pdf)
   * ...
-  * ex1.pdf
-  * ex2.pdf
-  * ex3.pdf
-  * ...
   * mlclass-ex1
   * mlclass-ex2
   * mlclass-ex3
