@@ -22,7 +22,6 @@ Go to [class](https://class.coursera.org/ml-008/).
   * Lecture16.pdf - [Recommender Systems](./Lecture16.pdf)
   * Lecture17.pdf - [Large Scale Machine Learning](./Lecture17.pdf)
   * Lecture18.pdf - [Application Example: Photo OCR](./Lecture18.pdf)
-  * Lecture19.pdf - [Conclusion](./Lecture19.pdf)
   * ...
   * mlclass-ex1
   * mlclass-ex2
