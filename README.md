@@ -1,8 +1,8 @@
-# Me learning machine learning at Coursera
+# Machine Learning at Coursera
 
 Go to [class](https://class.coursera.org/ml-008/).
 
-## Directory structure
+## Course structure
 
   * Lecture1.pdf  - [Introduction](./Lecture1.pdf)
   * Lecture2.pdf  - [Linear Regression with One Variable](./Lecture2.pdf)
