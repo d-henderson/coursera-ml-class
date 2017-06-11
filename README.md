@@ -30,6 +30,7 @@ Go to [class](https://class.coursera.org/ml-008/).
 
 ## Online resources
 
+* [Machine Learning Videos on YouTube](https://www.youtube.com/playlist?list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP)
 * [Advanced machine learning lectures on YouTube by Andrew Ng](https://www.youtube.com/course?list=ECA89DCFA6ADACE599)
 * [Recommended machine learning resources by Coursera](https://share.coursera.org/wiki/index.php/ML:Useful_Resources)
 * [Wolfram Alpha for plotting and understanding math functions](http://www.wolframalpha.com/input/?i=x+x^2+x^2*y+x^2*y^2+x^2*y^3+x^3*y+x^3*y^3)
